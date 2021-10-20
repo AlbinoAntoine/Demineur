@@ -1,3 +1,3 @@
 # Demineur
-Le célèbre jeux Démineur développer en JavaScript
+Le célèbre jeux Démineur développé en JavaScript
 
